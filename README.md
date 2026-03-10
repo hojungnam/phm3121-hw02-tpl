@@ -1,6 +1,6 @@
 # phm3121-hw02-tpl
 
-<img width="852" height="440" alt="image" src="https://github.com/user-attachments/assets/03abd316-a84e-410f-9d5d-b8eedc0d6673" />
+<img width="862" height="427" alt="image" src="https://github.com/user-attachments/assets/f7fd8611-7803-4ea1-88a7-79e04659baa1" />
 
 
 
